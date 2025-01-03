@@ -1,0 +1,79 @@
+Title: The 2024 Fantasy Football Season Recap
+
+Sweating the Underdog Fantasy best ball playoffs is about as fun as it gets, and we'll break down the teams that take down the Week 17 prizes when they are awarded. But today, let's take a deep dive into the fantasy football regular season (through Week 14) as "advance rates" tend to be the go-to metric when evaluating draft picks the following offseason. I think advance rates are a solid metric, but my favorite stat is "Fantasy Points Over Replacement" aka "Better In Best Ball Points".
+
+2024 Fantasy Points Over Replacement
+
+This stat is simple. It's just the weekly points scored over the replacement starter using Underdog's Half PPR scoring and roster constraints. That's QB12, RB31, WR41, and TE13 after accounting for the flex spot. For example, Josh Allen scored 51.8 fantasy points in his Week 14 outing. The average QB12 score throughout the season was 18.4 fantasy points, so Allen added 33.4 fantasy points over replacement (51.8 - 18.4 = 33.4 just in case). Best ball only accounts for the best possible team each week, so their weekly ceiling needs to be accounted for. This metric does so. So without further ado, here are all the points scored in 2024.
+
+2024 Fantasy Football Awards
+
+Best Stack: Bengals . Ja'Marr Chase to Joe Burrow fed families. When drafted together, teams had a 59% chance of finishing in 1st- or 2nd-place on Underdog Fantasy. If you also attached Mike Gesicki, 64%. Tee Higgins? 62%. Chase Brown? 71%. Andrei Iosivas? 61%. That's insane.
+
+Best Strategy: Robust RB . The trend line in the chart above tells the story. There was a lot of green in Rounds 2-7 where the top-20 RBs were drafted. Almost every one was a good to great selection. The lone misses were Breece Hall, Jonathon Taylor, and Travis Etienne if we don't include the injured Christian McCaffrey and Isiah Pacheco. The recipe was ripe for the taking, as RB prices were severely discounted for the 2nd year in a row. 2023 was an outlier year for late-round RB hits (Kyren Williams, De'Von Achane, Chuba Hubbard, etc.), and it felt like recency bias was unfolding after most serious best ballers were racing to be in the "Tier 1" of WR investment. Like 2023 was an outlier, 2024 will likely be an outlier for Robust RB. A big reason why the RBs were often the best picks early was because of an outlier year with WR injuries. The takeaway is to not overly chase last year's results. It still comes down to upcoming projections versus current cost.
+
+Best New Strategy: Hero WR . This would've been fighting words before 2024, but this is pretty much what exactly worked. The truly elite WRs smashed in Round 1, and the second tier of WRs was just cosplaying as "elites". There was no difference between these teammates: Drake London to Darnell Mooney, DK Metcalf to Jaxon Smith-Njigba, D.J. Moore to Keenan Allen, Christian Kirk to Brian Thomas, Amari Cooper to Jerry Jeudy, Michael Pittman to Josh Downs, Chris Olave to Rashid Shaheed, Deebo Samuel to Jauan Jennings, or Mike Evans to Chris Godwin. There might be something in the NFL waters based on offensive design and defensive schemes that are making the drop-off from WR1 to WR2 less substantial. It's worth an offseason investigation.
+
+Best Narrative: Improving RB Environments . This is nearly not an exaggeration. All of the best picks were veteran RBs going from bad offenses to good ones. Saquon Barkley (48% advance rate), Derrick Henry (35%), Josh Jacobs (30%), and Joe Mixon (26%). Even Aaron Jones (18%) and Tony Pollard (19%) held the line. Ironically, the narrative around Zero RB in NFL terms is that the environment explains a bulk of the RB's production, but the fantasy community opted to largely ignore the inverse of that theory here. Not only did these back rack up fantasy points, but they also finished 1st, 2nd, 9th, and 13th in NextGenStats' Rush Yards Over Expected.
+
+Best Late Rounder: Chuba Hubbard . I wrote about him below.
+
+Best Waiver Wirer: Jauan Jennings . We added a new weekly waiver wire show with Sam Sherman this year, and although the shows were fun to record, there were only so many good options this year. That's what happens when the RBs largely stay healthy. Jordan Mason and Kareem Hunt both had nice stretches, but those ended before crunch time. Jauan Jennings was probably the best long-term option, as there were two opportunities to snag him (after a 41-point game without Deebo Samuel in Week 3 and after Brandon Aiyuk's season-ending injury in Week 8). The close runner up was Jonnu Smith.
+
+We Should've Gone Outside Instead Of Being Worried: Samaje Perine . This was a tight race, as Khalil Herbert did nothing despite switching to the team we were fearful of landing, the Bengals. Sometimes the cut/trade candidate that's listed as the RB2/3 on bad offenses are probably not going to do anything elsewhere.
+
+
+
+
+
+
+
+Hayden Winks' Biggest Ws and Ls
+
+As a reminder, 16.7% advance rate is average, and if you read my roster construction columns, then we're also adding percentage points to our +EV with structure. This is pure player takes here:
+
+19.7% advance : 6+ picks earlier than their top-50 ADP (sample of 8).
+
+11.9% advance : 6+ picks later than their top-50 ADP (sample of 8).
+
+19.3% advance : 1+ round earlier than their top-100 ADP (sample of 10).
+
+13.9% advance : 1+ round later than their top-100 ADP (sample of 15).
+
+18.3% advance : 2+ rounds earlier than their top-200 ADP (sample of 16).
+
+16.2% advance: 2+ rounds later than their top-200 ADP (sample of 16).
+
+"My Guys Gone Right"
+
+Josh Jacobs was my most-drafted player (29% exposure) on my 141 Underdog Fantasy drafts against my employees and was the player I was most vocal about throughout draft season. The theory that the Raiders were way worse than the Packers proved true. As did the theory that Jacobs' workload would be different than Aaron Jones' due to their size and play style. To completely nerd out on tape, we saw other Shanahan decipals use more power runs in 2023, which was signal that stud coach Matt LaFleur was looking for that RB this offseason.
+
+Kyren Williams (26% exposure) was a late round pick and faced competition from a 3rd-round rookie. Typically, that's bad. In fact, I was even drafting Blake Corum in Round 10 for upside purposes, but that wasn't enough to fade Williams' Round 3 price tag. Williams just was a top 5 overall fantasy asset last year, and best ball is about realistic paths to upside. The final discount was the punt return reports, which were credible but lacked historical context with Sean McVay. He's had highly productive players in that role and the only reason they thought about him back there was his reliability. Throughout the offseason, McVay shared how much he loves Williams on and off the field. So much so that he tried to clone Williams with the Corum selection.
+
+David Njoku (25% exposure) was a process hit that could've been a major, major winner if not for some unpredicatable injuries. He was the 2023 TE1 from Week 8 on last year, yet was priced as a fringe TE1/2. He's clearly a player worthy of designing touches to, and there was upside in the QB room. Either Deshaun Watson was going to look improved or he was going to be benched for the fantasy gold mine Jameis Winston. An injury expedited the Jameis-to-Njoku connection and he was an elite TE from that point on.
+
+Courtland Sutton (23% exposure) is a trust the tape winner on multiple fronts. Sutton's catch point production was sensational in 2023 with Russ, and he had almost zero target competition if you had watched Marvin Mims, Troy Franklin, and the other options. Sutton turned out to have a better all-around game in 2024 with a more diverse QB in Bo Nix, who throws over the middle fairly well. If the Robust RB strategy was going to work out, there needed to be mid- and late-round hits at WR. Sutton, Brian Thomas (24% exposure), Jaxon Smith-Njigba (11%), Ladd McConkey (14%), Darnell Mooney (21%), Jerry Jeudy (11%), and Demarcus Robinson (26%) were my answers there.
+
+Sam Darnold is a case of just because previous spreadsheets hate him doesn't mean future spreadsheets will, too. The sample of Adam Gase with nobody WRs versus Kevin O'Connell with elite WRs and a good OL simply couldn't be compared, especially now that Darnold is older and learned a similar scheme with Shanahan the year before. Darnold was going to be far better no matter what, and there was a low-drafted benefit of targeting him in best ball tournaments. He was only drafted 37% of the time on Underdog Fantasy... Unfortunately for me, Darnold's +EV nature kept incentivizing me to go Justin Jefferson instead of Ja'Marr Chase in Round 1. Directionally accurate???
+
+Chuba Hubbard became more and more interesting as training camp rolled out. Jonathon Brooks never practiced, nor did it look like he was going to play in September. This was obvious by mid August. Hubbard at least had a proven valuable role for 4+ games with the potential for more. Unfortunately for Brooks, his debut came near Thanksgiving and it was a short-lived rookie campaign. It also helped that Andy Dalton had a moment and Bryce Young was vastly improved by the end of the year while playing behind an invested OL and promising offensive-minded head coach.
+
+"My Guys Gone Wrong"
+
+Breece Hall (21% exposure) was a stone-cold disaster. His 10% advance rate for a player who wasn't really affected negatively by injuries is amongst the very worst picks of the year. He closed a chaotic 2023 Jets season with elite numbers, but those were heavily skewed by manufactured receptions, something that was going to change going from backup QBs to Aaron Rodgers. Unfortunately, Rodgers wasn't a major upgrade for the Jets, so he couldn't make up for the lost touches with touchdowns. The Jets OL also was still amongst the worst in yards before contact, and Breece didn't look like a difference maker on tape either. Just about everything (talent, QB, OL, OC, touches, and scoring luck) went against him this year. The pain was felt harder when the rest of the position went nuclear from Round 2 onwards.
+
+Jaylen Waddle (23% exposure) had his best per-route numbers of his career in 2023 and had a chance to close the gap with the aging Tyreek Hill this offseason. Well, that just didn't happen. Only averaging 5.0 half PPR points in the 5 contests without Tua Tagovailoa was the real nail in the coffin, but Waddle's 10.9 half PPR points in the 8 regular-season Tua games remained a disappointment. De'Von Achane's pass-game chops became the easy button in the manufacture game, and the Dolphins regressed OL cut their downfield ability in half. Waddle needs either/both to be a fantasy football super star, especially after the emergence of Jonnu Smith after the catch. It was as odd of a season as you can expect out of a certified talented in-prime receiver without a QB or coaching change. But this is what I get for trying to predict the future.
+
+Patrick Mahomes (14% exposure) stacked with Xavier Worthy (15%) and Travis Kelce (11%) didn't go as planned. And honestly, it could've backfired even more had Rashee Rice stayed healthy. The Chiefs offense was successful but not dynamic. They passed the ball underneath and to a variety of options (RBs, backup TEs, and backup WRs), capping the ceilings of everyone involved. On tape, Mahomes missed Worthy at least 5 times for upwards of 250+ yards. That just rarely happens, but it did in 2024. Kelce looked solid and will probably pick up the pace when it matters most ... in the NFL Playoffs. For us in fantasy, that's not helpful.
+
+Zack Moss (23% exposure) or Chase Brown (or both) were going to be borderline league winners at their diminished price tags. The Bengals offense was too good, and there wasn't RB3 competition. Moss' $4.5M guaranteed contract was fringe starter money and he was a scheme fit with Joe Mixon gone, but Moss was also a fringe starter talent coming off his lone productive season. Moss did have the clear starting role in September (13.1 HPPR per game), but the Bengals trust in Brown began to develop in October. This probably would've leaned Brown over Moss throughout the season anyways, though an unpredictable season-ending neck injury in Week 9 made Moss one of the lower advance rate players of the year. Meanwhile, Brown looks like a "guy you need" in the fantasy playoffs. The reality is I should've been clicking both often. Moss easily could've been balling out if Brown was the one who picked up the fluky injury. We want upside outs when there's ambiguity in great offenses.
+
+"My Fades Gone Right"
+
+Marvin Harrison (1% exposure) had to be a Day 1 super star, not just a star, to be worthy of a Round 1/2 turn selection in the Cardinals' run-based offense. That's especially true in a TE-focused pass-game with emerging star Trey McBride as competition. Harrison was a great prospect, but there was always some concern in the fact he skipped the NFL Combine. It was clear from Week 1 that Harrison wasn't a freak athlete, nor did he have the polish we expected. Harrison and Kyler Murray couldn't connect on back shoulders and Harrison couldn't threaten vertically. His best reps were crossing patterns and when Kyler created a scramble drill. That's just not the profile of a top-20 fantasy WR.
+
+Sam LaPorta (3% exposure) was a negative regression candidate going into his 2nd season with stiff competition for targets. While talented, LaPorta faced an uphill target battle to pay off his 3rd-round ADP. Compared to the WRs in that range, he looked okay. But there were stud RBs and all the bankable elite QBs hovering. LaPorta's early season was a ghost town, possibly explained by a training camp injury. And a few touchdowns later in the year weren't enough to mask his 4.25 targets per game. It's always possible to go back-to-back as a TD outlier in great offenses, but there is a lot of risk in chasing that upside, too... And to just recap elite TEs: LaPorta (11% advance), Kelce (11%), McBride (17%), Andrews (20% but only 16% without Lamar), Kincaid (12%), Pitts (11%), and then I guess Kittle can be "elite" even though his ADP was after Pitts (23%). Even when looking at the spike weeks at the position, it was nearly all mid- and late-round TEs.
+
+Michael Pittman (0% exposure) was simply an awful pick in Round 3. And I never understood it. First off, Pittman is a good but not great player, who happened to benefit from an RPO spamming of targets with Gardner Minshew. That was unlikely to continue with young talent surrounding him at receiver in 2024. More importantly, Anthony Richardson plays nothing like Minshew. If Pittman was going to be a hit in Round 3, wouldn't the much-cheaper (Round 6) Richardson be a stone-cold smash? We must stop ranking WR1s over QB1s when they run this much. The same thing can be said about Zay Flowers going ahead of Lamar Jackson.
+
+"My Fades Gone Wrong"

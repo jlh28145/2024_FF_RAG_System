@@ -1,0 +1,405 @@
+Title: 2024 Fantasy Football Season In Review: What Nathan Jahnke got right and wrong
+
+• Drafting quarterbacks early was a winning strategy: Those who drafted Josh Allen, Jalen Hurts or Lamar Jackson had a good chance of making the fantasy playoffs.
+
+• Young tight ends were a nightmare: Sam LaPorta, Kyle Pitts, Dalton Kincaid and Jake Ferguson saw their fantasy production decline instead of improve this season.
+
+• Unlock your edge with a PFF+ subscription: Get full access to all of our in-season fantasy tools, including weekly rankings, the Start-Sit Optimizer and more. Sign up now!
+
+Estimated reading time: 8 minutes
+
+With the fantasy football season over, it’s time to review the fantasy draft season and identify what went well, what went wrong, and what was a grey area. This is to be transparent, particularly regarding my preseason recap articles to see where I can improve for the 2025 season.
+
+This article compares my draft rankings and articles to FantasyPros' consensus 2024 ADP. Fantasy points per game were generally the benchmark for how well players did rather than total fantasy points. I had Christian McCaffrey as the top overall pick, but so did ADP, so those hits and misses are ignored. All advice referenced in this article was for single-quarterback redraft leagues only, using PPR scoring, and doesn’t necessarily apply to best ball or dynasty.
+
+Running Back
+
+What I Got Right
+
+Not drafting Travis Etienne in the second round
+
+Etienne was the consensus RB8, putting him as a mid-second-round pick, while I had him at RB14, which was still too high. In his player profile, I noted Etienne’s drop in playing time and fantasy production in 2023 and that “his upside only exists if the offensive line improves dramatically or if Tank Bigsby keeps turning the ball over, forcing Etienne to play over 80% of Jacksonville's offensive snaps again.”
+
+Bigsby was a non-factor in the passing game, dropping two of nine passes. He fumbled three times in the run game, but that didn’t stop him from leading the team in carries and grading out as the better runner of the two. The run blocking on the team improved but not dramatically enough to make them an asset.
+
+While injuries certainly contributed to just how far Etienne fell, Etienne was still outside of the top-20 running backs early in the season before injuries took their toll.
+
+Nailing the league-winning running backs
+
+James Cook, Joe Mixon and Josh Jacobs were my three league-winning running backs. They were all slated to be the clear lead running backs on playoff teams, so I generally had them ranked ahead of consensus and ahead of players like Etienne and Rachaad White. All three finished among the top 10 running backs in fantasy points per game.
+
+Mixon was particularly noteworthy because he was included in the “My Guys“ piece at the end of the fantasy draft season. He was often included as the ideal fourth-round target in the “Perfect Draft Strategy” series, including the final 12-team edition. While he missed some time early in the season due to injury, he was still the fourth-round pick most likely to lead a team to the fantasy playoffs at ESPN.
+
+Ranking Derrick Henry and De’Von Achane higher than consensus
+
+While I wasn’t as vocal about my support for Henry or Achane, I ended up with them as my sixth and ninth-ranked running backs, respectively, while the consensus had them ninth and 11th. They finished fourth and seventh in fantasy points per game. My only concern with Henry was volume. I noted Achane was the riskiest of the running back picks, but one that I was more willing to take than others.
+
+Knowing Bucky Irving would be a major factor in the Tampa Bay Buccaneers backfield
+
+I noted immediately after the NFL draft that Irving was the big winner at running back. I ended up ranking Irving four rounds ahead of consensus and calling him one of my sleepers. Rachaad White was one of the five players I listed as my players to avoid this season, and I had White as an option two rounds later than consensus. The only players in the top 36 by ADP for whom I was a round or lower than consensus were Etienne and White.
+
+The two ended up back-to-back in fantasy points per game, and Irving was a full point per game ahead of White. I liked Irving largely for his opportunity to be the lead rusher in the Tampa Bay backfield, but he exceeded expectations with a top-10 PFF rushing grade among running backs with at least 100 carries. White remained fantasy-relevant in large part thanks to his touchdown total. His nine touchdowns are tied for 20th-most among all players regardless of position. He also improved significantly as a player, which helped minimize his dropoff.
+
+Avoiding Zamir White
+
+Not drafting White was the running back opinion I felt most strongly about. He was the consensus RB22, and I had him at RB32, nearly three rounds lower than ADP. White didn’t have a single week as a top-32 fantasy running back.
+
+White seemed like a big winner in both free agency and the draft after the team lost Josh Jacobs and only added Alexander Mattison in free agency and sixth-round rookie Dylan Laube in the draft. He was RB9 over the final four weeks of 2023 when Jacobs was injured.
+
+The problem was that the Raiders had a new offensive coordinator, and it was clear throughout the preseason that White wouldn’t be used similarly to last year. He wouldn’t play on third downs or two-minute drills, and his role on early downs wasn’t secure. Mattison played significantly on early downs in a rotation with White, and even Laube was given some opportunities. Teams avoid using their running back in the preseason more than most positions to avoid them taking unnecessary hits, and White played into the second half of a preseason game.
+
+I fully detailed why White should be avoided among my five players to avoid piece and boldly predicted that he wouldn’t be a fantasy starter by mid-season. White’s fantasy production was even worse than expected in the first few weeks. Mattison vultured touchdowns, and the Raiders offense was as bad as expected, which always hurts early down-backs. White lost his job to Mattison. Injuries also took their toll over the rest of the season, but White was benched before the injuries started.
+
+The running back in Joe Burrow’s offense had been a goldmine for fantasy purposes, so if one of Zack Moss or Brown could pull ahead from the other, that running back would have a lot of fantasy value. I ended up with Moss and Brown back-to-back in my fantasy rankings, while ADP had a 17-spot gap between the two, making Brown the better value.
+
+Moss landed on season-ending injured reserve mid-season, and Brown averaged 20.6 PPR points from Weeks 9-17. While it took an injury for Brown to work out fully, the general strategy in the mid-to-late rounds of the drafts should focus on scenarios where a player could work out in a big way.
+
+Ranking Nick Chubb lower than consensus
+
+Chubb was a consensus RB34, while I put Him at RB42. Early in 2023, he needed surgery to repair his MCL, a meniscus and later his ACL. Players are generally much less efficient when initially coming back from injuries that severe. Chubb has always been an elite runner, but his fantasy value has been limited by not playing on passing downs. Other running backs returning from major injuries have, at times, been OK due to volume, but Chubb was never going to see enough volume.
+
+My bottom line in his player profile was, “Chubb is a complete gamble. He has top-10 potential, but there’s also a chance he splits early-down snaps all season and underperforms, making him unreliable as a fantasy starter. In a more casual league, someone will likely draft him much earlier than they should, based on his reputation and without understanding the injury risks.”
+
+Chubb was a top-24 running back in only two of his eight games. He averaged 3.3 yards per carry.
+
+Ranking Chuba Hubbard higher than consensus
+
+I ranked Hubbard as RB36, while consensus had him at RB41. I was high on Hubbard by two rounds compared to consensus. While most of the players drafted in that range were high-upside backups, Hubbard was a starter who would be limited later in the season once Jonathon Brooks was healthy. A combination of establishing himself ahead of Miles Sanders and a lack of optimism around Brooks’ health led me to move Hubbard up the rankings. Dave Canales’ history with RB1’s in fantasy gave at least some reason for optimism for high volume.
+
+Hubbard ended up as a top-10 runner by PFF run grade, and Brooks’ injury lasted longer than many expected, leading Hubbard to exceed expectations. There was a bit of luck here, but the general thought process of having a projected starter ahead of the high-upside rookies was generally the right one.
+
+What I Got Wrong
+
+Not drafting Saquon Barkley in the first round
+
+Barkley has been the top running back in fantasy football this season. In his player profile, I knew a huge season could be in store for Barkley. The improved offensive line was going to be a major positive for Barkley. Breakaway big runs have been Barkley’s strong point in recent seasons, and the line was going to create the possibility for those big plays, which made for a lot of upside.
+
+There were too many causes for concern around Barkley that I didn’t have for other players, which led me to lower Barkley to the early parts of the second round. First, there was the tush push leading to Jalen Hurts potentially stealing too many touchdowns. However, Barkley ended up with nine touchdowns of over 10 yards. The next most by a player was five, and the average for a team is 2.5. No other running back since 2010 has more than seven in a season. Adrian Peterson had nine in his historic rookie season, DeAngelo Williams earned nine in 2008, and Chris Johnson finished with eight in his 2,000-yard season in 2009.
+
+These big plays make an enormous difference for fantasy football purposes. If you removed all players' 10 or more-yard touchdown runs, Barkley would have the ninth-most PPR points per game for running backs.
+
+Concern was also expressed about his receiving. Barkley set season lows for receptions per game and receiving yards per game, but his big gains in the run game were so good that the lack of receiving production didn’t matter. The other concern was simply how good a runner he was.
+
+He was good, but when considering first-round picks, you need someone excellent. A lot of the blame for Barkley’s numbers in recent years could be blamed on the offense and offensive line with the New York Giants. It is difficult to separate a running back from his team. His rate at avoiding tackles has been low in past seasons and remained low this season, but again, that didn’t matter with his explosive runs.
+
+I am OK that I did not predict Barkley would have a historic rate of big plays that we haven’t seen in 15 years, but more can be done to separate a runner from their team, and maybe there was more signal that Barkley was still an excellent player despite his stats.
+
+The running backs to target in rounds seven and eight
+
+I preferred picking two running backs in the first six rounds. The most common running back I suggested in the seventh round was Tony Pollard, and he was the only one of the 10 running backs in the seventh or eighth round to finish among the top 24 in fantasy points per game. However, sometimes I’d suggest picking a different running back, which didn’t go well.
+
+I also suggested Devin Singletary, Javonte Williams and Jaylen Warren as running backs in these two rounds, but they lived up to their ADP. In a preseason game, the Giants used their starters for an entire half, and Singletary dominated offensive snaps over Eric Gray, suggesting a large role for him. Williams and Warren were listed among my breakout players for the season.
+
+The running backs in this range were generally players in clear two-back committees and starting running backs with plenty of young competition. The fantasy community generally did a good job of projecting running backs this season and a lack of players coming out of nowhere likely contributed to the players in these rounds not being of much value. The top 12 running backs in fantasy points per game were all among the top 18 running backs picked. Seventeen of the top 20 were picked in the first five rounds.
+
+I could have been higher or lower on any running backs in this range, but I would have been wrong on the running backs I was high on. Ideally, I would have been higher on the top 20 running backs in general and lower on players outside of the top 20, but that doesn’t necessarily mean the same trends will hold next season. This will be another trend to look into this offseason.
+
+A few running backs were picked outside the top 100, which impacted fantasy teams this season. Chase Brown, Chuba Hubbard and Bucky Irving were three of the five players who finished in the top 30 in fantasy points per game, which I was high on. The other two were Dobbins and Dowdle, who I was lower than consensus.
+
+With Dobbins, I wasn’t expecting him to take such a high percentage of carries for Los Angeles. I also didn’t expect the Chargers to be as good as they’ve been, allowing the team to run as much as they have. He’s carried the ball at least 14 times in all but three of the games he played. Dobbins’ injury history played a big part in my belief that he was unlikely to see that large workload. Given how much other players have struggled to return from multiple injuries, I’m not sure there are any long-term takeaways here.
+
+With Dowdle, there wasn’t much in his profile to suggest he would be a great player, but the path to volume was there. Sincere McCormick, Jeremy McNichols and Emanuel Wilson have at least played well when given the opportunity after not having a history of success in the NFL. It’s possible I’m not accounting well enough for high-end outcomes for running backs where there isn’t much sample size of data for that running back.
+
+Grey Area
+
+Preseason Confirmations
+
+Many backfields changed this offseason, as players were on new teams with new coaching staffs. In a few cases, teams used their starters for at least part of a game in the preseason. Their backfield followed a rotation that we expected they would use in the regular season, and the preseason usage carried on into the regular season as expected. While these aren’t necessarily things I got right because most people got it right, they did lead to more confidence in ranking particular players.
+
+In preseason Week 1, the Commanders and Titans, with new offensive play-callers, showcased their new two-man backfields with Brian Robinson Jr., Austin Ekeler, Tony Pollard and Tyjae Spears. Both teams used a heavy rotation of players, as Robinson and Pollard played more on early downs and Ekeler and Spears playing more on passing downs. The Titans used their starters again in the third game. That time, Pollard played the first drive and Spears the second. Typically, a running back playing one drive and exiting doesn’t speak about how the two will rotate and only points to which running back is ahead.
+
+The Broncos used starters in both their first and second games. The first game suggested that Samaje Perine would still be part of the rotation, but the second game reversed that thought. They used a two-man rotation, which seemed unsettled, and that rotation has continued throughout the season.
+
+The Browns' third preseason game confirmed Jerome Ford was ahead of Pierre Strong Jr. on the depth chart. The Bears’ first preseason game had some odd usage, as D’Andre Swift only played two snaps but not the first two. It generally suggested the Bears would use an early down back and a third-down back. Travis Homer was in contention for the third-down role. Homer or Roschon Johnson has played significant snaps on third downs throughout the season.
+
+Wide Receiver
+
+What I Got Right
+
+I agreed with ADP that Christian McCaffrey, CeeDee Lamb and Tyreek Hill should be the first three picks for better or worse. ADP had Robinson and Hall as the next two picks, while I consistently had them lower than Ja’Marr Chase, Amon-Ra St. Brown and Justin Jefferson. This was consistent in both my rankings and perfect draft articles.
+
+The reason was Chase, St. Brown and Jefferson were much safer bets. They were all top-12 last season, and while Jefferson was changing quarterbacks, it was very safe to assume they would all be great this year. They were the top three wide receivers in fantasy points per game. There was more risk around Robinson and Hall. Robinson had a new coaching staff and a talented Tyler Allgeier behind him. Breece Hall hasn’t seen as many targets with Aaron Rodgers at quarterback.
+
+Robinson had a great season, but teams who drafted one of the three wide receivers were likelier to make the fantasy playoffs this year.
+
+Ranking Davante Adams higher than consensus
+
+I ended up with Adams as the 14th-best pick in the draft, while the consensus had him as pick 20. In my perfect draft strategy articles, he was often a mid-second-round pick. I had him ahead of Marvin Harrison Jr. at wide receiver and running backs like Kyren Williams, Travis Etienne Jr. and Isiah Pacheco.
+
+In his player profile, I acknowledged he wasn’t fully the same player he once was, but he still played at a very high level. The general excitement was on his reunion with Luke Getsy. He scored the 14th-most fantasy points by a wide receiver over the first three weeks. He then reunited with Aaron Rodgers with the New York Jets. Since Week 7, Adams has scored the 10th-most fantasy points.
+
+I generally was at or ahead of consensus for each of the top 14 wide receivers. The first two wide receivers I had that were notably lower than consensus were Samuel and Pittman. They had ADPs in the late third round, where I had both as fourth-round picks.
+
+Both players have experienced injuries this season, likely impacting their progress. However, there was also concern about the competition for touches. The 49ers and Colts emphasize the run game, making it harder for them to reach their target totals than receivers in other high-powered offenses. Pittman ranks 34th in targets, while Samuel ranks 40th.
+
+Trusting talented rookie wide receivers on below-average offenses
+
+Ten wide receivers were picked within the first 37 picks of the 2024 NFL Draft, giving fantasy managers plenty of options. Marvin Harrison Jr. was picked two spots ahead of Malik Nabers, but the difference in landing spot led Harrison to get picked nearly three rounds ahead of Nabers in fantasy drafts.
+
+Brian Thomas Jr. was the fourth wide receiver selected in the NFL Draft. Still, he was selected behind Xavier Worthy, Keon Coleman and Ladd McConkey in fantasy drafts because of their landing spots. I generally trusted Nabers's and Thomas Jr.'s talent and potential volume, which led me to call Nabers a league winner and Thomas Jr. a breakout.
+
+While plenty of rookies have played well, Nabers and Thomas Jr. lead all rookie wide receivers in targets, leading to the most receptions and yards. Both players have far exceeded their ADP.
+
+Ranking Jaxon Smith-Njigba higher than consensus
+
+There were only two wide receivers with a top-100 ADP that I had ranked at least a round and a half ahead of consensus ADP: Rashee Rice and Smith-Njigba. The bottom line of his player profile was:
+
+“For Smith-Njigba to consistently be in fantasy starting lineups, two things need to happen: he needs to play better, and he needs to play more in two-receiver sets. If neither happens, he should remain on fantasy benches unless there's a great matchup. If just one of these factors occurs, he will be a value at his current ADP of WR45. If both happen, he could become a top-20 wide receiver.”
+
+After that article was written, Smith-Njigba took limited preseason snaps, which included playing in 12 personnel. Tyler Lockett wasn’t playing in the preseason, so his increased playing time was no guarantee, but it increased the odds enough to move Smith-Njigba up the rankings. Brian Thomas Jr. was the only wide receiver drafted later than Smith-Njigba in fantasy drafts and ended up with a better season.
+
+Kirk was the only notable wide receiver I had ranked two full rounds lower than his consensus ADP. I had concerns about his target rate in addition to his usage in the red zone and two-receiver sets.
+
+He didn’t play in 12 personnel with the starters in the preseason in 2023. That played out for one week, and then Zay Jones suffered an injury, leading to more playing time for Kirk. He didn’t play in 12 personnel again this preseason, which played out while he was healthy. He played in 24 out of a possible 120 snaps out of 12 personnel in his eight healthy games. This led to fewer routes per game, targets, receptions and receiving yards.
+
+In his great fantasy season with the Jaguars, he scored eight touchdowns. The Jaguars had three other targets with reputations for scoring touchdowns, making it unlikely Kirk would be prioritized near the goal line. Kirk received three of a possible 18 targets when the Jaguars were within 10 yards of scoring, leading to one touchdown.
+
+Kirk finished the season 57th in fantasy points per game. Amari Cooper was the only wide receiver drafted ahead of him with worse fantasy points per game this season.
+
+Malachi Corley as a player to avoid
+
+Typically, a rookie can prove they are high on the depth chart in the preseason, but it’s common enough for a rookie to start low on their depth chart and work their way up. An exception was made for Corley. Throughout the preseason, he only played in 11 personnel. Generally, wide receivers need to be on an offense that runs a high rate of 11 personnel and has a high target rate to be fantasy-relevant in that role.
+
+In their final preseason game, the Jets rested both starters and key backups. They rested all three other rookies the Jets drafted on offense, but Corley needed to play in that game. While it’s OK to be a backup at the start of a rookie season, he was playing with players who largely didn’t make the roster. Nine of the 14 players who played on the first drive of the final preseason game were either released or put on injured reserve before Week 1, with backup lineman Max Mitchell as the only player with significant playing time this season. Corley's being that far down the depth chart was a major red flag.
+
+While Corley was only getting drafted in big leagues or leagues with deep benches, Corley didn’t seem worth the risk in those leagues.
+
+What I Got Wrong
+
+Ranking Chris Olave higher than the consensus
+
+Olave joined Davante Adams as the two wide receivers I was highest on relative to consensus in the first two rounds. He finished as the WR16 in 2023, and I expected the new coaching staff to lead to more passing and Olave to continue his ascension as a young wide receiver.
+
+Olave had six games where he played at least 70% of the Saints' offensive snaps and gained at least 80 receiving yards in four of those six games. He was held to 10 and 11 yards in the other two games. In those games, Rashid Shaheed performed strongly. While I was also high on Shaheed, I didn’t anticipate him getting in the way of Olave’s fantasy value.
+
+Olave suffered concussions very early in two other games, which made his per-game stats look much worse than he played. Ignoring those games, he finished with 12.5 PPR points per game, which was still a step down from the last two seasons rather than a step up.
+
+Waddle’s per-play stats, along with his age, similarly made Waddle look like one of the league's top wide receivers with the potential to overtake Tyreek Hill as the Dolphins' top receiver sooner rather than later.
+
+Waddle gained 109 receiving yards in Week 1. Tua Tagovailoa suffered a concussion in Week 2 and returned in Week 8. Since then, Waddle has shown up on the injury report due to a quadricep, hamstring and knee injuries. While he’s flashed some of his great play in recent weeks, including an eight catch, 144-yard performance in Week 12 and a 99-yard performance in Week 14, it’s overall been a disappointing season.
+
+While some of it was bad injury luck to him and his quarterback, I was probably too dismissive of his injuries from last season. I was also not high enough on Jonnu Smith, which will be covered in the tight end section. Smith’s ascension has likely hurt Waddle’s target share.
+
+Ranking Diontae Johnson higher than the consensus
+
+Johnson was the third wide receiver I was at least a round above consensus, joining Waddle and Rashee Rice. I thought he could have a similar season to 2022, where he played the Steelers' X-receiver role and had one of the highest target rates in the league. Johnson scored the 20th-most fantasy points for a wide receiver over the first seven weeks. It came from three great games mixed with four quiet ones.
+
+After that, the Panthers traded him to the Baltimore Ravens. He’s caught one pass in the last two months. Teams rarely trade away players in the same calendar year they traded for that player, so this seemed rather unpredictable.
+
+Listing Rome Odunze as a breakout
+
+I generally followed the strategy of drafting talented rookies. While this worked with Malik Nabers and Brian Thomas Jr., it didn’t with Rome Odunze. The Chicago Bears receiver has put up fine numbers for a rookie, but they just haven’t been enough to warrant the draft capital. I was fine with my process here, but I wanted to include Odunze here for completeness.
+
+Ranking Jordan Addison lower than the consensus
+
+While I was right on the first four wide receivers I ranked at least 10 spots lower than ADP, I was not right on Addison. In his player profile, I acknowledged he could be a top-20 wide receiver if everything goes right, and through 17 weeks, he was 20th in fantasy points per game.
+
+The main concern was at quarterback, where Sam Darnold had a history of inaccurate passes and dumping off to other positions more often than other quarterbacks. Addison has the highest average depth of target and deep target rate on the team, so this would potentially impact Addison more than other players. Darnold’s quality of play has been one of the season's biggest surprises, which has greatly helped Addison.
+
+There were also some concerns about a suspension. A court appearance that was set for October 7th was delayed until December. Any possible suspension will not happen until 2025.
+
+boldly predicting a big season for Brandin Cooks
+
+Cooks improved as the 2023 season progressed. The Cowboys' passing offense seemed primed for a big year after not investing much at running back. He scored a touchdown in Week 1 but then had three quiet games, followed by an injury that cost him seven games. Once he was back, Dak Prescott was out. There could be something to dig into, either with Cooks’ decline or the Cowboys' offense early in the season.
+
+Brenden Rice potentially being part of the Chargers wide receiver rotation
+
+Rice was a seventh-round pick for the Los Angeles Chargers. In the second preseason game, he started ahead of Quentin Johnston and D.J. Chark Jr. The three continued to rotate throughout the first half. I ended up moving Rice up in my rankings, although not high enough to get drafted in most leagues.
+
+Rice started the season as a healthy inactive despite Chark being on injured reserve. Rice only played three offensive snaps in Week 7 and has been on injured reserve since Week 8. While this wasn’t the biggest miss, it’s always good to remember some strange things can happen in the preseason.
+
+Grey Area
+
+Considering Puka Nacua a first-round pick
+
+Throughout the offseason, Nacua was my favorite late first-round pick in the perfect draft strategy articles. As his ADP fell, he became the favorite pick to start the second round. I didn’t feel comfortable calling this a victory after he suffered an injury in Week 1 and didn’t return until Week 8. He’s averaged the fifth-most fantasy points per game, so for the second half of the season, he was worth that pick.
+
+The percentage of teams with Nacua who made the fantasy playoffs was roughly as expected for someone picked at Nacua’s spot. Theoretically, it would have been higher had it not been for the injury. I notably had Nacua higher than Garrett Wilson, who had similar advance rates. Wilson had more total fantasy points, but Nacua has been better per game.
+
+Considering Rashee Rice the player to build your fantasy draft around
+
+I had Rice as a second-round pick when initially doing my 2024 rankings. Then Rice faced legal issues that made it seem like a suspension was possible. As we drew closer to the season, it became clearer that a suspension was very unlikely for 2024.
+
+I ended up with Rice two rounds ahead of ADP, the highest I was on any player in the top 100. His per-play stats were elite as a rookie, and by the end of the season, he was finally seeing a full-time role in the Chiefs offense. I included him in my breakout article and my guys' article. Rice was viewed as such a value that my perfect draft strategy articles changed to ensure Rice would be drafted,
+
+After Week 3, Rice had the second-most fantasy points for a wide receiver at 64.3 points. He suffered a season-ending injury in Week 4. The thought process and decision around Rice were right, but injuries happen in football. Unfortunately, it happened to the player I was highest on.
+
+Throughout Reed’s career, he has only played in three wide receiver sets. He ended the 2023 season on fire, but it was when the Packers had several injuries on offense. Green Bay invested in the run game in the offseason and had health at tight end. As long as the Packers were winning, Reed wouldn’t be on the field very much. Typically, slot receivers have low average depths of targets, so they can at least see a lot of short targets, giving them a decent floor even if they only play in 11 personnel. Reed had the second-highest average depth of target of wide receivers from the slot last season, making him even more volatile.
+
+Reed had at least 110 receiving yards in each of the Packers' first three losses and averaged 37 receiving yards in their wins. Luckily, he has seven touchdowns on the season, but he also has five games with two or fewer receptions. While I knew the big games were possible, I also knew it would be hard to know when they were coming, so there could be weeks where you sat him and he had a great game or started him and he posted very little.
+
+I had Reed at WR44, with consensus at WR36. He’s averaged the 40th-most points per game.
+
+Reason to be concerned about the Buffalo Bills‘ wide receivers
+
+The Bills traded away Stefon Diggs this offseason and let Gabe Davis, Trent Sherfield and Deonte Harty all leave. They added Curtis Samuel, Mack Hollins and Marquez Valdes-Scantling in free agency and Keon Coleman in the draft. The general thinking was that Shakir and Samuel would consistently be on the field in three-receiver sets, with Coleman in some kind of rotation with Hollins, depending on how he developed as a rookie.
+
+During the first and second preseason games, it became clear that the plan was to have two taller receivers on the field in three-receiver sets and only one of Shakir or Samuel. This led me to be low on both Shakir and Samuel. Both were ranked among wide receivers in the 50s by consensus ADP, and I had them in the 60s.
+
+This worked out well for not drafting Samuel but not for Shakir. Their cumulative value wasn’t as high as expected, but Shakir ended up ahead of Samuel on the depth chart, so I ended up being lower on Shakir than I should have been. Shakir was the wide receiver who was consistently good enough to be in fantasy lineups in leagues where you start three wide receivers but not a league winner.
+
+Other Preseason Notes
+
+The Texans' preseason usage made it clear Nico Collins and Stefon Diggs would be the primary receivers in two-receiver sets, while Tank Dell was used in three-receiver sets. It also suggested a higher snap rate for Collins than last year. Those all ended up being true, but not all that surprising.
+
+Xavier Worthy was a clear starter immediately, which has been true all season. Even now, he consistently sees more playing time than the other wide receivers of the Chiefs.
+
+The Patriots' wide receiver rotation seemed unsettled throughout the preseason. The exception was Demario Douglas , who was the slot receiver in three-receiver sets only throughout the preseason. That was how Douglas was utilized throughout the season while the two outside spots remained unsettled.
+
+During training camp, there was speculation that Cedric Tillman could start ahead of Elijah Moore . They both played in the final preseason game, and their usage suggested Moore would be ahead of Tillman, which was true. However, it also suggested that Moore would play more on the outside, leaving the slot role to Jerry Jeudy . During the season, Moore has played more in the slot than Jeudy.
+
+There seemed to be some signs Adonai Mitchell could see notable playing time even when all of the Colts' wide receivers had been healthy. Mitchell has played well on a per-play basis this season, but Alec Pierce having some big games early in the season slowed Mitchell’s momentum.
+
+One of the bigger stories in the first two weeks of the preseason in terms of utilization was Jahan Dotson's playing in the slot for the Washington Commanders. However, that went nowhere because Dotson was traded to the Philadelphia Eagles .
+
+Tight End
+
+What I Got Right
+
+The importance of picking a top-12 tight end
+
+I’ve stressed the importance of picking a top-12 tight end for the past two seasons. I had the top 12 tight ends three or four spots higher than ADP on average. Tight end is the one position where a player's talent is most closely correlated to their fantasy value, making them somewhat easier to predict. Nine of the top 12 players by ADP are in the top 12 in terms of fantasy points per game. In contrast, that was true for seven quarterbacks, seven running backs and seven wide receivers.
+
+This means it was easier to wait at other positions and still find value later in the draft than at tight end.
+
+Listing Trey McBride as a league winner
+
+There was a clear top four tight ends based on ADP, Travis Kelce, Sam LaPorta, Mark Andrews and Trey McBride. All four are in the top 10 in fantasy points per game, but McBride is the only one who has matched and exceeded expectations.
+
+McBride's main concern was the Marvin Harrison Jr. addition and how that could impact McBride’s target rate. There have been several examples of tight ends being elite fantasy producers despite having a great wide receiver on the team, so McBride was the tight end I was highest on relative to ADP among those four. Harrison hasn’t played as well as expected, which has potentially helped McBride, but his low touchdown rate has hurt his fantasy production.
+
+More fantasy teams with McBride made the playoffs compared to the other three tight ends.
+
+Ranking Evan Engram lower than consensus
+
+While there is generally a high correlation between PFF receiving grade and fantasy production for tight ends, Engram has been an exception. Because of that, I’ve generally been low on Engram. In 2023, he played like usual most of the year and had exceptional production only once Christian Kirk went down due to injury.
+
+The Jaguars have played their starters more than most teams in the preseason, and Evan Engram played notably fewer snaps than usual. He played 67% of snaps in the second preseason game and 65% in the third. He was usually around 79% of his team's offensive snaps in 2023. This season, he played 68%, 61% and 56% of snaps in his first three games, possibly due to injury. Once Christian Kirk was injured, Engram returned to over 80% of snaps. He was down to 71-75% in his last three healthy games. These changes only had a subtle effect on his routes run.
+
+A combination of slightly fewer routes, an injury, and the Jaguars' offense simply not playing as well as in the past led to Engram averaging fewer fantasy points per game than in other recent seasons.
+
+Rankings Brock Bowers higher than consensus
+
+I had Bowers nine spots higher than consensus, placing him ahead of David Njoku in my rankings. Unfortunately, I typically didn't advocate to draft Bowers because I advocated picking a tight end early. My concern was that if you targeted Bowers and missed, your options became much more limited. Dallas Goedert was an option, but after that, Dalton Schultz, T.J. Hockenson, Luke Musgrave and Isaiah Likely were the next players based on ADP. In some leagues, when Bowers fell, I drafted him as a second tight end option.
+
+PFF loved Bowers’ talent. In one preseason drive, he lined up all over the field, which was encouraging. The concern was the quarterback situation and competition for targets and snaps with Davante Adams and Michael Mayer. Two of Bowers’ worst three games occurred early in the season when Adams was still on the team.
+
+Ranking Dalton Schultz lower than the consensus
+
+Schultz was the tight end I was lowest on compared to ADP among players with a top 160 ADP. There were concerns about the wide receivers being healthier this year, the Stefon Diggs addition, a bigger focus on the run game with Joe Mixon and more competition for snaps in the tight end room.
+
+Most of those things didn’t hold. All three top wide receivers have missed significant time this year, and the Texans have several backup tight ends on injured reserve, leaving Schultz with a high snap rate. The higher run rate with Mixon is the one concern that has held. That’s been enough for Schultz to fall to 25th in fantasy points per game, the worst among all tight ends with a top 160 ADP.
+
+Ranking Cade Otton higher than the consensus
+
+ADP ranked Otton as the 26th-best tight end option, but I ranked him at TE18. My logic was that he was a young tight end with guaranteed playing time, so there was a chance he could improve, see a higher target share and be a fantasy starter. I preferred that to some of the older tight ends we knew had limited ceilings or were in rotation.
+
+That ended up playing out, and he averaged the 11th-most fantasy points for tight ends this season.
+
+Considering Cole Kmet undraftable
+
+Kmet was considered one of the top tight end sleepers, finishing with a TE16 ADP. I had him significantly lower, including him in the five players to avoid and an aggressive, bold prediction. The initial concern was that adding Rome Odunze and Keenan Allen would create too much competition for targets.
+
+Then, in the preseason, the Bears used a similar rotation to that of offensive coordinator Shane Waldron’s past stints with the Los Angeles Rams and Seattle Seahawks. It involved one every-down tight end and one passing-down tight end. Gerald Everett often took the passing-down role. The Bears signed Everett in free agency, and the preseason usage suggested that Everett could be ahead in the rotation.
+
+This played out in the first regular-season game. Everett started, played 34 snaps and ran 21 routes, while Kmet played 27 snaps, ran 12 routes and caught one pass for four yards.
+
+Kmet returned to the starting lineup by Week 2, and his playing time eventually returned to normal, but Kmet was rarely a priority in the offense. Since Week 8, he’s been held to 14 or fewer receiving yards in seven of 10 games. While he’s had a few splash weeks, it’s impossible to know when they would happen, so he wasn’t helping fantasy starting lineups.
+
+He is currently 24th in fantasy points per game. While that wasn’t exactly 30th or worse, he wasn’t someone worth rostering in fantasy leagues this season.
+
+What I Got Wrong
+
+Drafting Sam LaPorta as an early third-round pick
+
+LaPorta’s ADP was late in the third round, but he and McBride were the two I advocated picking ahead of their ADP early. After his record-breaking rookie season, I thought we would see more of the same.
+
+There hasn’t been a notable dropoff in his receiving grade. The first problem is he’s run noticeably fewer routes. The Lions dominate most of their games, leading them to stick with the run game and not need to pass the ball. His playing time has been similar, but his routes per game have decreased by around 10%.
+
+Beyond that, his targets per route have also decreased. Jameson Williams and David Montgomery have experienced substantial increases in targets this season relative to last. While there is a chance something was up specifically with LaPorta, which could be looked into, the situation might have been enough to keep LaPorta out of the top five tight ends this season.
+
+Tight ends have been my worst position to predict accurately this season, and this is due to missing these three young tight ends early in the season. I generally thought all three had shown some promise in the NFL, and enough changed in the offseason to suggest they could play even better this year. The articles went into more specifics about what I liked about them.
+
+All three finished outside of the top 18 in fantasy points per game. While it seems relatively safe to say Brock Bowers, Trey McBride and George Kittle will be the three highest-ranked tight ends heading into next season, I’ll be spending a lot of time digging into what happened to the young tight ends this season before being confident on my rankings for TE4 and beyond, as well as the best strategies to take when picking tight ends next season.
+
+Ranking David Njoku lower than consensus
+
+While I was higher than ADP for eight of the top 12 tight ends, Evan Engram and Njoku were the two I was noticeably lower on. For Njoku, it was his target share splits with and without Deshaun Watson in both 2022 and 2023, where he was thrown at much less when Watson was at quarterback.
+
+He was better with Watson this season than in past seasons. His targets per route was up to 23.8%, and he averaged 10.6 PPR points per game with Watson. His target rate without Watson was roughly the same, but his fantasy points per game were much better without Watson at 15.1. He was injured for three games early in the season, so there wasn’t much overlap when he and Watson were healthy. This would still have been a slight miss for me had Watson been the quarterback the whole season. Being low on Njoku was even more of a miss with other quarterbacks.
+
+Ranking Jonnu Smith lower than consensus
+
+Smith was TE24 by ADP and I had him at TE31. Either way, he wasn’t getting drafted in most leagues, but the reasoning is worth discussing. The Dolphins used their top three tight ends for half of the second preseason game. Smith was playing exclusively in three-receiver sets. Tight ends in that role are typically very inconsistent from a fantasy perspective due to their lack of playing time.
+
+Playing time was a big problem for Smith early in the season. He played less than 50% of the offensive snaps in the Dolphins' first six games. He was held to 18 yards or fewer in the first four games. At that point of the season, he was TE31. He put together big games in Weeks 5 and 7, leading to an increase in snaps by Week 8. While he didn’t do much from Weeks 8-10, he became an elite tight end by Week 11, which led to another increase in snaps. He’s been the top fantasy tight end over the last seven weeks.
+
+Smith has the fourth-highest PFF receiving grade this season at 85.2 behind Kittle, Bowers and McBride. His previous high was 79.3 in 2019. His grade in 2023 was 63.5, which was his lowest since 2018. On one hand, I can’t blame myself too much for a tight end having an eighth-year breakout that I didn’t see coming. On the other hand, there could be some reason why he found success with the Tennessee Titans and Dolphins but not as much with the New England Patriots or Atlanta Falcons.
+
+Grey Area
+
+Listing Taysom Hill as one of my guys and a sleeper
+
+I started fantasy draft season out on Hill, thinking a new offensive coordinator wouldn’t use Hill the same way Sean Payton and Pete Carmichael did, especially at 34 years old. However, talk in training camp mixed with preseason utilization led to the idea Hill could be used even more this year. Hill is a risky player to start like any other tight end outside of the top 10. However, Hill has the upside for multiple touchdowns, which most tight ends don’t have. This made Hill more valuable than most starting tight ends in the league, leading me to rank Hill 12th while ADP had him 21st. I had Hill 91 spots higher than ADP, which was the most for a player with a top 250 ADP.
+
+Hill finished fifth in fantasy points per game at 12.9 and second in standard leagues. Hill had three games as a top-five fantasy tight end and five games where he didn’t do much. It’s hard to consider him a success when he missed seven games. The Saints have dealt with several injuries this season, and it’s hard to tell how much those injuries impacted Hill’s utilization.
+
+Ranking Pat Freiermuth lower than the consensus
+
+Freiermuth wasn’t drafted to be a fantasy starter this season. The Arthur Smith addition was concerning for the tight end room. Smith utilized a rotation of tight ends with both the Tennessee Titans and Atlanta Falcons, which made it very hard to trust their tight ends. They had talented players, but they were very hit-and-miss. The Steelers used starters in their first and third preseason game, suggesting Freiermuth might not see much playing time in two tight end sets.
+
+This was true in some weeks, but their run-blocking tight end, MyCole Pruitt, has missed several games due to injury, allowing Freiermuth to see more playing time in those games. Freirmuth has caught at least two passes every game, and that floor has helped his fantasy totals this season. He’s caught a few touchdowns, which have also helped, but he hasn’t had a game with more than 70 yards.
+
+The Steelers offense has played better than I expected, so Freiermuth has ended up with more fantasy points this season than I expected, but that still hasn’t been enough for Freiermuth to live up to his ADP.
+
+Quarterback
+
+What I Got Right
+
+By consensus, Allen was the overall QB1, but I was a big advocate for taking one of the top few quarterbacks, led by Allen. It was enough to list Allen as one of my guys. The reasoning was that the top few quarterbacks were special based on their passing and rushing, and it would be very difficult for other quarterbacks to match them in fantasy points per game.
+
+While Lamar Jackson has outscored him, anyone who drafted Allen wouldn’t be disappointed by his 24.1 fantasy points per game.
+
+Drafting a quarterback in the top four rounds
+
+While Allen was my guy, I also consistently advocated for Jalen Hurts in the middle/late parts of the third round and Jackson at the end of the third or start of the fourth. Those who drafted Allen, Hurts or Jackson had the highest rates of making the fantasy playoffs for a second straight season.
+
+Most teams who didn’t draft a quarterback that early were stuck changing quarterbacks from one week to the next unless you drafted Joe Burrow or Jayden Daniels. C.J. Stroud, Anthony Richardson and Dak Prescott were all quarterbacks within the top 70 of ADP, and they all finished outside the top half of quarterbacks in fantasy points per game.
+
+Boldly predicting Jayden Daniels would average at least 21 fantasy points per game
+
+I also included Daniels among my breakout quarterbacks. He was the only quarterback among the top 15 that I had ranked a round better than the consensus. Everything about Daniels suggested he would run the ball at a rate similar to other elite fantasy options. His 144 rushing attempts and 864 rushing yards ranked second and first among quarterbacks, respectively. Luckily, his passing has also exceeded expectations.
+
+Unfortunately, I didn’t advocate for drafting Daniels enough. Because I believed strongly in the elite quarterback options, I only occasionally suggested picking Daniels as a second option. The concern with waiting for Daniels is that if someone else sniped him, there would be no other options to fall back on.
+
+Daniels averaged 22.5 fantasy points per game over the first 17 weeks, so the bold prediction has come true.
+
+I ranked all three quarterbacks a little more than a round lower than consensus, and they didn’t live up to their ADP. I had Joe Burrow ranked higher than Richardson and Daniels ahead of Murray and Love, while ADP had those reversed.
+
+A lot of this had to do with Daniels more than these quarterbacks. In particular, Richardson and Daniels were liked for their rushing ability. Washington had arguably better weapons, and Daniels showed more rushing potential in college. This led me to rank picking Richardson as the worst strategy for picking quarterbacks this year because you could just get Daniels a few rounds later.
+
+Listing Sam Darnold as a sleeper
+
+Darnold was QB30 by ADP, but I had him ranked 21st. I liked Darnold for the quarterback-friendly offense in Minnesota, which included running more plays than average, passing more often compared to expectations, and the great receivers the Vikings have. His situation was so much better than that of other quarterbacks that drafting Darnold ahead of those quarterbacks was worth drafting. Darnold exceeded my and everyone else's expectations for just how good he’s been as a passer, but everything about the offense and his receivers has helped.
+
+What I Got Wrong
+
+Listing Trevor Lawrence as a breakout
+
+While I didn’t generally advocate taking a second quarterback after drafting one of the elite options, Lawrence was the one player I’d consider. Lawrence finished playing like a fantasy starter last season, and Jacksonville upgraded at the outside receiver spots.
+
+Lawrence averaged 16.8 fantasy points over the first nine weeks, which ranked 16th best among quarterbacks. He had a slow start to the season like usual, but from Weeks 4-9, he was the eighth-best fantasy quarterback. He played around his ADP, but injuries cost him the rest of the season.
+
+Missing here had more to do with bad injury luck and an unsurprisingly bad start. I believe he would have been closer to a hit if he didn’t suffer the second-half injuries.
+
+Ranking Jared Goff lower than consensus
+
+I had Goff 11 spots lower than the consensus ADP. I had him at QB16 while ADP had him at QB15. I had Lawrence ahead of Goff. I had most quarterbacks from QB9 to QB18 lower than consensus because of how much I valued picking a quarterback early. Most quarterbacks finished right around ADP or a little worse, but Goff was the exception outside Jayden Daniels.
+
+Goff finished outside the top 12 in fantasy points per game each of the last five seasons. The Lions run-first offense made it unlikely he’d be a top-five option. Goff has been very efficient this season, with a career-high 9.1 yards per attempt and a career-high touchdown rate of 7% of his passes. Both of those marks are second-best to Lamar Jackson this season. Goff is currently at seventh in points per game, and that is likely where he will max out, as he won’t have the passing volume or rushing volume of the top quarterback options.
+
+Ranking Bo Nix lower than the consensus
+
+I had Nix near the bottom of the fantasy quarterback rankings this year. One big reason was his passing weapons. In June, we ranked the Broncos third-to-last in the receiving corps, and that was before the team moved on from Tim Patrick, Samaje Perine, and eventually Josh Reynolds.
+
+Nix has finished in the top 10 in rushing yards and rushing touchdowns for a quarterback, which has been a big help. He also ranks in the top 10 in passing touchdowns. The Broncos' general success this season is worth investigating this offseason.
