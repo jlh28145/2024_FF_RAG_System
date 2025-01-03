@@ -13,8 +13,7 @@ def preprocess_text(filepath, output_dir=OUTPUT_DIR):
     """Cleans and preprocesses text from an article file."""
     try:
         with open(filepath, "r", encoding="utf-8") as f:
-            content = f.read()
-        
+            content = f.read()       
         # Remove non-alphanumeric characters
         content_cleaned = re.sub(r"[^a-zA-Z0-9\s]", "", content)
 
@@ -28,7 +27,6 @@ def preprocess_text(filepath, output_dir=OUTPUT_DIR):
         # Save preprocessed text
         os.makedirs(output_dir, exist_ok=True)
         processed_filepath = os.path.join(output_dir, os.path.basename(filepath))
-        
         with open(processed_filepath, "w", encoding="utf-8") as f:
             f.write(" ".join(tokens_filtered))
 
@@ -43,4 +41,3 @@ if __name__ == "__main__":
     raw_articles_dir = "data/articles"
     for file in os.listdir(raw_articles_dir):
         preprocess_text(os.path.join(raw_articles_dir, file))
-
