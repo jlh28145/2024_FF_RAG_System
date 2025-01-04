@@ -1,0 +1,42 @@
+Checklist for Building the RAG System
+
+Planning and Setup
+Define project scope (MVP with 1–3 articles).
+Create a GitHub repository for hosting the project.
+Set up a virtual environment for Python.
+
+Knowledge Base
+Select 1–3 high-quality articles as the knowledge base.
+Convert the articles into a retrievable format (e.g., text or embeddings).
+
+Data Processing
+Tokenize and preprocess the articles.
+Generate embeddings using an open-source library like sentence-transformers.
+
+Backend
+Set up a retrieval pipeline using a library like Haystack or LangChain.
+Implement the RAG workflow, combining retrieval and generation.
+
+Frontend GUI
+Use a framework like Flet or Gradio to create a simple question-and-answer interface.
+Design input fields for queries and display answers.
+
+Ollama Integration
+Research and integrate Ollama if available for Python.
+Ensure compatibility with the retrieval pipeline.
+
+Dockerization
+Write a Dockerfile to containerize the application.
+Test the container locally for smooth deployment.
+
+Documentation
+Write a detailed README with setup and usage instructions.
+Include system architecture, examples, and future improvement plans.
+
+Testing and Iteration
+Test the system for basic functionality with the MVP setup.
+Collect feedback and note improvements for future iterations.
+
+Deployment
+Prepare for deployment (local or cloud-hosted Docker environment).
+Document deployment steps in the README.
